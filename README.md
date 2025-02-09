@@ -1,4 +1,6 @@
 My code creates a system to detect fake news by extracting text from an image. The user selects an image from the desktop and I process it using OpenCV and Tesseract. First, I convert the image to grayscale, then blur it and perform edge detection. After that, I extract the text with OCR and print it on the screen.
+
+
 ![SAMPLE NEWS](https://github.com/user-attachments/assets/018382d5-2097-415a-9580-c8fcd963732d)
 
 
